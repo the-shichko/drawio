@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2020-12-27T20:29:43.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" version="14.1.1" etag="IOb7G95D0qWBy5NyJG04" type="github"><diagram id="kF-9pcWs3t-Go0OBA5yl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-27T20:33:09.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="JjfkBi03dTLQv-usOfp1" version="14.1.1" type="github">
+  <diagram id="kF-9pcWs3t-Go0OBA5yl" name="Page-1">
+    <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gJ_zn22yHK6QyLrhfoZa-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="gJ_zn22yHK6QyLrhfoZa-1" target="gJ_zn22yHK6QyLrhfoZa-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gJ_zn22yHK6QyLrhfoZa-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="gJ_zn22yHK6QyLrhfoZa-1" target="gJ_zn22yHK6QyLrhfoZa-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gJ_zn22yHK6QyLrhfoZa-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="gJ_zn22yHK6QyLrhfoZa-1" target="gJ_zn22yHK6QyLrhfoZa-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gJ_zn22yHK6QyLrhfoZa-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="gJ_zn22yHK6QyLrhfoZa-1" target="gJ_zn22yHK6QyLrhfoZa-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gJ_zn22yHK6QyLrhfoZa-1" value="&lt;font style=&quot;font-size: 10px&quot;&gt;ПС &quot;&lt;span lang=&quot;RU&quot; style=&quot;line-height: 115% ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;МОБИЛЬНОЕ ПРИЛОЖЕНИЕ ДЛЯ ВЗАИМОДЕЙСТ-ВИЯ С БД НА&lt;br&gt;УДАЛЕННОМ СЕРВЕРЕ&lt;/span&gt;&quot;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="260" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gJ_zn22yHK6QyLrhfoZa-3" value="Авторизация в СУБД на удаленном сервере" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gJ_zn22yHK6QyLrhfoZa-5" value="Вывод баз данных" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gJ_zn22yHK6QyLrhfoZa-6" value="Вывод таблиц базы данных" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gJ_zn22yHK6QyLrhfoZa-7" value="Выполнение sql-запроса" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
